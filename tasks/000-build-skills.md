@@ -20,8 +20,11 @@ For each service in AGENTS.md section 3, create a reusable skill so that a paid 
 9. `content-writing` (website copy, blogs, founder LinkedIn ghostwriting, product listings for Shopify/Amazon/Flipkart)
 10. `ad-creatives` (static ad concepts with copy and image prompts, hook/offer/CTA variants, short video scripts and shot lists)
 11. `data-research` (public-source datasets, cleaning/dedup, competitor and market reports)
-12. `vlsi-content` (verification / digital design training material: SystemVerilog, UVM basics, assertions, FSMs, timing; accuracy-checked)
-13. `case-study-writeup` (turning a finished job into an honest portfolio case study)
+12. `short-form-video` (reels/shorts from long videos or raw footage: hook, cuts, captions, aspect ratio, batch of 10; no-cost tools such as CapCut, DaVinci Resolve, ffmpeg)
+13. `faceless-video` (script, AI or stock visuals, voiceover, edit, thumbnail; copyright-safe assets only, licences recorded)
+14. `social-media-content` (content calendars, post and carousel graphics, captions, newsletters)
+15. `transcription-subtitles-voiceover` (transcripts, SRT, English/Hindi translation, voiceover tracks; accuracy-checked)
+16. `case-study-writeup` (turning a finished job into an honest portfolio case study)
 
 ## Every SKILL.md must contain
 - Frontmatter: `name`, `description` (one line: when to use it).
@@ -37,7 +40,7 @@ For each service in AGENTS.md section 3, create a reusable skill so that a paid 
 For each skill, run it once on a fictional brand and save the output in `deliverables/samples/<skill-name>/` (this also covers task 005). Keep each sample small but real (working code, real deck file, real copy).
 
 ## Acceptance criteria
-- 13 skills exist, each loadable, each with all sections above.
-- 13 samples exist, each passing its own QA checklist.
+- 16 skills exist, each loadable, each with all sections above.
+- 16 samples exist, each passing its own QA checklist.
 - `reports/daily_YYYY-MM-DD.md` lists every skill, its sample path, and what you'd still improve.
 - Pull request opened; Claude reviews before merge.
