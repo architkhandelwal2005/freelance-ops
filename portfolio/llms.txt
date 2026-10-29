@@ -1,0 +1,25 @@
+# Archit Khandelwal
+
+Archit works with brands on AI automation, websites and making them more visible on Google and AI search like ChatGPT.
+
+## Services
+- AI automation: enquiry and follow-up workflows, contact organisation and reminders.
+- Websites and landing pages: focused pages and careful improvements to existing sites.
+- Brand visibility: website and AI-search audits, human-sounding content.
+- Content and pitch decks: structured business writing and presentations.
+
+## Verified work
+- Sapcon Instruments: meeting voice-note automation; the team is using it.
+- Real-time player-auction web app: used at Derma Cricket League 2026 and FICCI FLO Indore.
+- Website and AI-search audit work for Indian D2C brands.
+- Fictional GEO demonstration: https://architkhandelwal2005.github.io/freelance-ops/geo-sample.html
+
+## Fictional demos
+- Enquiry flow (local simulation): https://architkhandelwal2005.github.io/freelance-ops/demos/lead-capture/
+- Sourced FAQ assistant: https://architkhandelwal2005.github.io/freelance-ops/demos/faq-chatbot/
+- Snack landing page: https://architkhandelwal2005.github.io/freelance-ops/demos/d2c-landing/
+- Request dashboard (browser-local data): https://architkhandelwal2005.github.io/freelance-ops/demos/mini-dashboard/
+
+## Contact
+Email: architkhandelwal2005@gmail.com
+Website: https://architkhandelwal2005.github.io/freelance-ops/

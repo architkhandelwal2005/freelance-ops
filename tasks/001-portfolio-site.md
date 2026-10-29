@@ -1,4 +1,4 @@
-Status: To do | Priority: 1 | Deadline: 2 days
+Status: Built and locally checked; GitHub Pages activation and live QA pending | Priority: 1 | Deadline: 2 days
 
 # 001 — Archit's portfolio website
 
