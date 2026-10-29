@@ -1,7 +1,7 @@
 # CONTEXT.md — Background (as of 29 Oct 2026)
 
 ## The business
-Archit sells freelance work delivered with AI tools: websites and landing pages, website fixes, AI-search (GEO) visibility, AI automations, chatbots, internal tools, decks, content, ad creatives, data/research and VLSI technical content.
+Archit sells freelance work delivered with AI tools: websites and landing pages, website fixes, AI-search (GEO) visibility, AI automations, chatbots, internal tools, decks, content, ad creatives, short-form and faceless video, social content and design, transcription/subtitles/translation, and data/research. No VLSI work.
 
 ## Division of work (changed 29 Oct 2026)
 - **Claude (manager):** all lead generation, lead management, outreach (email, WhatsApp, LinkedIn), freelance platforms (Fiverr, Upwork, Freelancer.com, Truelancer, Wellfound), client conversations, pricing with Archit, reviewing your work, delivering to clients.
