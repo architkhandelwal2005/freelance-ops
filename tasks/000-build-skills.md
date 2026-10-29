@@ -1,4 +1,4 @@
-Status: To do | Priority: 1 | Deadline: 3 days
+Status: Ready for Claude review | Priority: 1 | Deadline: 3 days
 
 # 000 — Train yourself: build one skill per service
 

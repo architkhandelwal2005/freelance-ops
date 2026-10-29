@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nila.example/sitemap.xml

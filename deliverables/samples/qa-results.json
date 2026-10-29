@@ -1,0 +1,306 @@
+{
+  "passed": 67,
+  "total": 67,
+  "skills": {
+    "delivery-standards": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Dated original preserved byte-for-byte"
+      }
+    ],
+    "website-fixes": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Original overflow and bounded replacement present"
+      }
+    ],
+    "landing-page-build": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Metadata, sections and local CTA present"
+      }
+    ],
+    "geo-implementation": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Schema matches visible fictional entity"
+      },
+      {
+        "pass": true,
+        "note": "Robots, sitemap and llms.txt agree"
+      }
+    ],
+    "ai-automation-build": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Five events: three records, one duplicate skipped, one invalid rejected"
+      }
+    ],
+    "ai-chatbot-build": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Approved answers cite a source; unknowns hand off"
+      }
+    ],
+    "internal-tool-build": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Local create, search and edit paths present; text inserted safely"
+      }
+    ],
+    "pitch-deck-build": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Editable deck and review PDF both have ten slides"
+      }
+    ],
+    "content-writing": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Unknown specifications marked and facts logged"
+      }
+    ],
+    "ad-creatives": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Vector art, two copy variants and shot list valid"
+      }
+    ],
+    "data-research": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Five fictional rows clean to three unique complete rows"
+      }
+    ],
+    "short-form-video": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Playable H.264/AAC output has target dimensions"
+      },
+      {
+        "pass": true,
+        "note": "Final caption time matches media duration"
+      }
+    ],
+    "faceless-video": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Playable H.264/AAC output has target dimensions"
+      },
+      {
+        "pass": true,
+        "note": "Final caption time matches media duration"
+      }
+    ],
+    "social-media-content": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Three scheduled drafts and editable art; no posts published"
+      }
+    ],
+    "transcription-subtitles-voiceover": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "SRT ends with generated voice and Hindi translation exists"
+      }
+    ],
+    "case-study-writeup": [
+      {
+        "pass": true,
+        "note": "Skill, sample and handover exist"
+      },
+      {
+        "pass": true,
+        "note": "Required skill sections exist"
+      },
+      {
+        "pass": true,
+        "note": "Prompt and checklist exist"
+      },
+      {
+        "pass": true,
+        "note": "Fictional status and publication gate explicit"
+      }
+    ]
+  }
+}

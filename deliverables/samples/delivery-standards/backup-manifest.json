@@ -1,0 +1,6 @@
+{
+  "source": "JOB-000-nila.md",
+  "backup": "JOB-000-nila.original.md",
+  "restore": "Copy backup over source",
+  "production_changed": false
+}

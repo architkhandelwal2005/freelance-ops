@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e1",
+    "name": "A",
+    "email": "a@example.test",
+    "request": "Desk setup"
+  },
+  {
+    "id": "e2",
+    "name": "B",
+    "email": "b@example.test",
+    "request": "Colours"
+  },
+  {
+    "id": "e1",
+    "name": "A",
+    "email": "a@example.test",
+    "request": "Duplicate"
+  },
+  {
+    "id": "e4",
+    "name": "C",
+    "email": "bad",
+    "request": "Bad email"
+  },
+  {
+    "id": "e5",
+    "name": "D",
+    "email": "d@example.test",
+    "request": "Delivery"
+  }
+]
