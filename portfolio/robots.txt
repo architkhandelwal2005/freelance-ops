@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://architkhandelwal2005.github.io/freelance-ops/sitemap.xml

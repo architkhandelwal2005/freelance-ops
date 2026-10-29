@@ -1,0 +1,5 @@
+{% if product != blank %}
+<div class="fo-atc" role="region" aria-label="Product purchase action"><span>{{ product.title | escape }}</span>{% if product.available %}{% form 'product', product %}<input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}"><button type="submit">{{ section.settings.button_label | escape }}</button>{% endform %}{% else %}<span>Unavailable</span>{% endif %}</div>
+<style>.fo-atc{position:sticky;bottom:0;z-index:20;display:flex;justify-content:space-between;align-items:center;gap:1rem;background:#fff;border-top:1px solid #ddd;padding:.8rem 1rem}.fo-atc button{background:#173a33;color:#fff;border:0;padding:.7rem 1.2rem;cursor:pointer}.fo-atc button:focus-visible{outline:3px solid #d79a56}@media(max-width:600px){.fo-atc{font-size:.9rem}}</style>
+{% endif %}
+{% schema %}{"name":"FO sticky add to cart","settings":[{"type":"text","id":"button_label","label":"Button label","default":"Add to cart"}],"presets":[{"name":"FO sticky add to cart"}]}{% endschema %}

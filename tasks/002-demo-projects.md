@@ -1,4 +1,4 @@
-Status: To do | Priority: 2 | Deadline: 4 days
+Status: Built locally; hosting pending | Priority: 2 | Deadline: 4 days
 
 # 002 — Demo projects (proof for pitches)
 

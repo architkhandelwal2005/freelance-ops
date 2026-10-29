@@ -1,0 +1,5 @@
+--- before.html
++++ after.html
+@@
+-.card{width:600px;padding:20px;background:#eaf4ff}
++.card{box-sizing:border-box;width:min(100%,600px);padding:20px;background:#eaf4ff}

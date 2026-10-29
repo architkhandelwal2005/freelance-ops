@@ -1,0 +1,1 @@
+Source: `source-landscape.mp4`, generated original footage. Reframed to 9:16. Three visual beats align with separately generated voice sentences. Captions are burned into the MP4 and supplied as SRT. No third-party rights.

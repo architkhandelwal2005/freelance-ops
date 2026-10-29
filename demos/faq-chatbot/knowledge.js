@@ -1,0 +1,1 @@
+window.NILA_KNOWLEDGE=[{"question": "Is Nila Studio a real shop?", "answer": "No. Nila Studio is a fictional concept used for a delivery demo.", "source": "pages/index.html"}, {"question": "What does Nila Studio make?", "answer": "The fictional concept includes a desk tray, a stand and a cable holder. Specifications are not defined.", "source": "pages/about.html"}];

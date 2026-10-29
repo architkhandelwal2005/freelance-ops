@@ -1,0 +1,42 @@
+{
+  "alerts": [
+    {
+      "to": "owner@example.test",
+      "subject": "New fictional enquiry",
+      "id": "e1"
+    },
+    {
+      "to": "owner@example.test",
+      "subject": "New fictional enquiry",
+      "id": "e2"
+    },
+    {
+      "to": "owner@example.test",
+      "subject": "New fictional enquiry",
+      "id": "e5"
+    }
+  ],
+  "replies": [
+    {
+      "to": "a@example.test",
+      "subject": "We received your enquiry",
+      "id": "e1"
+    },
+    {
+      "to": "b@example.test",
+      "subject": "We received your enquiry",
+      "id": "e2"
+    },
+    {
+      "to": "d@example.test",
+      "subject": "We received your enquiry",
+      "id": "e5"
+    }
+  ],
+  "errors": [
+    {
+      "id": "e4",
+      "error": "invalid email"
+    }
+  ]
+}
