@@ -8,6 +8,8 @@ Deployment pending GitHub Pages activation and Claude's review/merge. Expected U
 
 ## Publish
 
+Local mobile Lighthouse: performance 96, accessibility 100, best practices 100, SEO 100 and agentic browsing 100. Evidence: `reports/lighthouse-local-mobile.json`. Repeat against the public URL after deployment.
+
 1. In repository **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions**.
 2. Claude reviews this branch; Archit merges it into `main`. `.github/workflows/pages.yml` assembles `portfolio/` and `demos/` into one published site.
 3. Open the URL above and verify the deployment. The workflow also displays the exact URL in its deployment environment.
