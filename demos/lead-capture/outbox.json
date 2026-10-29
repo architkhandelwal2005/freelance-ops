@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "kind": "owner-alert",
+      "to": "owner@example.test",
+      "record_id": "1"
+    },
+    {
+      "kind": "lead-reply",
+      "to": "asha@example.test",
+      "record_id": "1"
+    },
+    {
+      "kind": "owner-alert",
+      "to": "owner@example.test",
+      "record_id": "2"
+    },
+    {
+      "kind": "lead-reply",
+      "to": "dev@example.test",
+      "record_id": "2"
+    },
+    {
+      "kind": "owner-alert",
+      "to": "owner@example.test",
+      "record_id": "5"
+    },
+    {
+      "kind": "lead-reply",
+      "to": "kabir@example.test",
+      "record_id": "5"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "4",
+      "reason": "invalid email"
+    }
+  ]
+}

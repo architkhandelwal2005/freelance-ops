@@ -1,0 +1,7 @@
+[
+  {"id":"1","received_at":"2026-10-29T09:00:00Z","name":"Asha","email":"asha@example.test","request":"Desk layout"},
+  {"id":"2","received_at":"2026-10-29T09:01:00Z","name":"Dev","email":"dev@example.test","request":"Colour options"},
+  {"id":"2","received_at":"2026-10-29T09:01:00Z","name":"Dev","email":"dev@example.test","request":"Duplicate"},
+  {"id":"4","received_at":"2026-10-29T09:02:00Z","name":"Ira","email":"invalid","request":"Invalid address"},
+  {"id":"5","received_at":"2026-10-29T09:03:00Z","name":"Kabir","email":"kabir@example.test","request":"Product idea"}
+]
