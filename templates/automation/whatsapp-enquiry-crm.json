@@ -1,0 +1,13 @@
+{
+  "name": "Official WhatsApp enquiry to CRM starter",
+  "status": "design only; no provider account or webhook created",
+  "trigger": {"provider": "Official WhatsApp Business Platform or approved provider", "verification": "Verify provider signature and webhook challenge"},
+  "steps": [
+    {"type": "consent-check", "rule": "Store only permitted enquiry fields"},
+    {"type": "deduplicate", "key": "provider_message_id"},
+    {"type": "crm-upsert", "fields": ["contact_id", "enquiry", "received_at"], "credentials": "approved secret store"},
+    {"type": "owner-alert", "mode": "preview until Claude approves"},
+    {"type": "human-handoff", "rule": "No unsupported answer or negotiation"}
+  ],
+  "errors": {"signature_failure": "reject", "crm_failure": "retry with backoff and alert operator", "duplicate": "acknowledge without second record"}
+}
