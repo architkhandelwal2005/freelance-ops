@@ -4,7 +4,7 @@
 Open `after.html` in a browser; `before.html` is the restorable original.
 
 ## QA evidence
-CSS bounds the card to the viewport; exact assertion is in `qa.json`.
+CSS bounds the card to the viewport; the focused sample assertion is in `../qa-results.json`.
 
 ## Limits and backup
 Fictional sample; no client or external platform was contacted. Original sample inputs are preserved in this folder. No live site was edited.
